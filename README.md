@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [@joao-henrike](https://github.com/joao-henrike)  
-💻 **Full-Stack Developer | Cybersecurity Specialist (Offensive, Defensive & Forensics) | IoT Enthusiast**
+💻 **Full-Stack Developer | Cybersecurity (Offensive, Defensive & Forensics) | IoT Enthusiast**
 
 ---
 
