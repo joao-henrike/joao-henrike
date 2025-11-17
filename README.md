@@ -1,121 +1,228 @@
-# 👋 Hi, I’m [@joao-henrike](https://github.com/joao-henrike)  
-💻 **Full-Stack Developer | Cybersecurity (Offensive, Defensive & Forensics) | IoT Enthusiast**
+<div align="center">
 
----
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hi, I'm João Henrique
 
-## 🧠 About Me
-I’m a technology enthusiast passionate about integrating software, hardware, and cybersecurity. I work across Web, Mobile, Back-End, Infrastructure, IoT, and InfoSec with a strong focus on automation and secure development.
+### Full-Stack Developer | Cybersecurity Specialist | IoT Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Building+Secure+Systems;Automating+Everything;Connecting+the+Unconnectable" alt="Typing SVG" />
 
-## 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-henrique-p/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jb.goncalves2406@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-henrike)
 
-### 💡 Languages & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+</div>
 
-### 🎨 Front-End
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
 
-### 🧩 Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+```python
+class JoaoHenrique:
+    def __init__(self):
+        self.username = "joao-henrike"
+        self.role = "Full-Stack Developer & Security Specialist"
+        self.location = "São Paulo, Brazil"
+        self.interests = ["Cybersecurity", "IoT", "Automation", "Cloud"]
+        self.motto = "Simplicity, automation, and security"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something secure together 🚀")
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+me = JoaoHenrique()
+me.say_hi()
+```
 
-### ☁️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+<details>
+<summary><b>🎯 What I Do</b></summary>
+<br>
 
-### 🔌 IoT & Embedded
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
-![MicroPython](https://img.shields.io/badge/-MicroPython-222222?style=flat&logo=python&logoColor=white)
+- 🔐 Build secure and scalable full-stack applications
+- 🛡️ Perform penetration testing and security assessments
+- 🤖 Automate infrastructure and development workflows
+- 🔌 Design IoT systems integrated with cloud platforms
+- 📊 Analyze security incidents and perform digital forensics
 
----
+</details>
 
-## 🛡️ Cybersecurity Expertise
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Arsenal
+
+<details open>
+<summary><b>💻 Languages & Core Technologies</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Front-End Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ Back-End Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Infrastructure</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔌 IoT & Embedded Systems</b></summary>
+<br>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="35" /> Cybersecurity Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🔓 Offensive Security
-- ![Nmap](https://img.shields.io/badge/-Nmap-5A5A5A?style=flat)
-- ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7A16?style=flat&logo=burp-suite&logoColor=white)
-- ![SQLMap](https://img.shields.io/badge/-SQLMap-black?style=flat)
-- ![Metasploit](https://img.shields.io/badge/-Metasploit-00549D?style=flat)
-- ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+- Nmap, Burp Suite
+- SQLMap, Metasploit
+- Kali Linux Tools
+- Web App Pentesting
+- Network Exploitation
+
+</td>
+<td width="33%" valign="top">
 
 ### 🛡️ Defensive Security
-- ![iptables](https://img.shields.io/badge/-iptables-333333?style=flat)
-- ![Fail2Ban](https://img.shields.io/badge/-Fail2Ban-DD0F0F?style=flat)
-- ![Snort](https://img.shields.io/badge/-Snort-FF3366?style=flat)
-- ![Suricata](https://img.shields.io/badge/-Suricata-DB3A00?style=flat)
+- iptables, Fail2Ban
+- Snort, Suricata
+- Firewall Management
+- Intrusion Detection
+- Security Hardening
 
-### 🧪 Forensics
-- 🧬 Log analysis & memory dumps  
-- 🔍 Network forensics with Wireshark & tcpdump  
-- 💽 File carving, hash validation (MD5, SHA256)  
-- 🧰 Tools: Autopsy, Volatility, Foremost, The Sleuth Kit
+</td>
+<td width="33%" valign="top">
 
----
+### 🔬 Digital Forensics
+- Log Analysis
+- Memory Forensics
+- Network Forensics
+- Wireshark, tcpdump
+- Autopsy, Volatility
 
-## 🌱 I’m currently learning ...
-- ☁️ Cloud Security (AWS, Azure)
-- 🔐 Advanced Pentesting Techniques
-- 🧠 Zero Trust Architecture
-- 🛜 IoT Cloud Integrations
-- ⚙️ Infrastructure-as-Code & advanced automation
+</td>
+</tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💞️ I’m looking to collaborate on ...
-- 🔐 Secure & high-performance platforms
-- 🌐 Full-stack and IoT integrated systems
-- 🛜 Offensive Security Toolkits
-- 📲 Mobile/web solutions connected to embedded devices
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" /> GitHub Analytics
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-henrike&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrike&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-## 📊 GitHub Stats
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-henrike&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrike&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-henrike&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joao-henrike&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</div>
 
-## 📫 Contact Me
-- 📧 [jb.goncalves2406@gmail.com](mailto:jb.goncalves2406@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-henrique-p/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="35" /> Currently Exploring
 
-## 😄 Pronouns: He/Him  
-## ⚡ Fun fact:
-- I automate almost everything using Bash, Python, or microcontrollers.  
-- I love connecting things no one ever thought to connect 😄🔌🌐
+```yaml
+learning:
+  - Cloud Security (AWS, Azure)
+  - Advanced Penetration Testing
+  - Zero Trust Architecture
+  - IoT Cloud Integrations
+  - Infrastructure as Code
 
----
+collaboration_interests:
+  - Secure & high-performance platforms
+  - Full-stack with IoT integration
+  - Offensive Security toolkits
+  - Mobile/web + embedded systems
+```
 
-> _“Security is not a product, but a process.”_ – Bruce Schneier  
-> _“Simplicity, automation, and security — that’s my invisible stack.”_
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect
+
+<div align="center">
+
+### 💬 Open to collaborations, projects, and security discussions!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-henrique-p/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jb.goncalves2406@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### ⚡ Fun Facts
+
+> 🤖 I automate almost everything using Bash, Python, or microcontrollers  
+> 🔌 I love connecting things no one ever thought to connect  
+> 🛡️ Security is not a product, but a process - Bruce Schneier
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> **"Simplicity, automation, and security — that's my invisible stack."**
+
+<img src="https://komarev.com/ghpvc/?username=joao-henrike&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
